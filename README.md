@@ -1,6 +1,6 @@
 # Grandmaster: Multi-Dimensional Chess AI Visualization
 
-A sophisticated chess visualization platform that lets you witness ChatGPT playing against itself in 2D, 3D, and 5D time travel chess. This project was inspired by Gotham Chess's AI demonstrations and the mind-bending game [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/).
+A sophisticated chess visualization platform that lets you witness ChatGPT playing against itself in 2D, 3D, and 5D time travel chess. This project was inspired by Gotham Chess's failure to impress me with their AI demonstrations and the mind-bending game [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/) which I am not profitting from implementing, this is purely for fun.
 
 ## Overview
 
